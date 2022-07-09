@@ -1,8 +1,8 @@
 Entraide et partage outils dev
 
-- tools : des outils pour aider à programmer, pour l'instant juste des alias de norminette et de compilation dans un .zshrc
-- loupe : script de check norme et comparaison des sorties de vos fonctions du c00 et c01 par rapport à des sorties validées par la moulinette
-- moulileuleu : même chose, par un autre auteur
+- tools (@agaley) : des outils pour aider à programmer, pour l'instant juste des alias de norminette et de compilation dans un .zshrc
+- loupe (@macurio) : script de check norme et comparaison des sorties de vos fonctions du c00 et c01 par rapport à des sorties validées par la moulinette
+- moulileuleu (@alevra) : une autre implémentation, sur le même principe
 
 /!\ Les scripts par comparaison de sorties (loupe et moulileuleu) sont imparfaits et ne sauraient remplacer un oeil attentif, ni se substituer à une correction manuelle /!\
 
